@@ -1,53 +1,88 @@
-## 👋 Hi there 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=FF6B8B&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+HeHaojie;Agent+Developer;AI+Agent+Enthusiast;LLM+Application+Builder" alt="Typing SVG" />
+</h1>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HeHaojie-Agent&theme=react-dark&bg_color=141321&hide_border=true" alt="HeHaojie-Agent's Activity Graph" />
+</p>
+
+---
+
+### 🧠 赛博档案 / Cyber Profile
+
+<img align="right" width="220" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHlqbmY3cHR5M3BxYzZ4ZWp4dGNiZWs3bXg0aGJ5N2d3Z3hqa2NtOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J1dKdFQb2f9HtJ6J5K/giphy.gif" alt="ai-agent-gif" />
+
+- 🎓 **当前坐标**: 就读于 **天津科技大学 (TUST)**。
+- 🤖 **核心领域**: 深度探索 **AI Agent 应用开发** & **智能体架构**。
+- 🧬 **技术栈**: **LangChain** / **AutoGen** / **CrewAI** 实践者。
+- 🧪 **模型研究**: **Qwen** / **Llama3** / **GPT** 系列模型应用与微调。
+- 📘 **知识库**: 持续探索 **RAG + Agent 工作流** 的落地场景。
+
+---
+
+### 🛠 军火库 / Tech Stack
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,fastapi,docker,kubernetes,git,github,vscode,pytorch,tensorflow,postgresql,redis,graphql" />
+  </a>
+</p>
+
+**核心框架**:
+<p>
+  <img src="https://img.shields.io/badge/LangChain-FF6B8B?style=flat&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/AutoGen-00A8E8?style=flat" />
+  <img src="https://img.shields.io/badge/CrewAI-8A2BE2?style=flat" />
+  <img src="https://img.shields.io/badge/LlamaIndex-FF9800?style=flat" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic-1C1C1C?style=flat" />
+</p>
+
+---
+
+### 📊 战斗力分析 / Battle Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HeHaojie-Agent&show_icons=true&theme=radical&bg_color=141321&hide_border=true&title_color=FF6B8B&icon_color=FF6B8B&text_color=91FEA8" alt="HeHaojie-Agent's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeHaojie-Agent&layout=compact&theme=radical&bg_color=141321&hide_border=true&title_color=FF6B8B&icon_color=FF6B8B&text_color=91FEA8" alt="Top Langs" />
+</p>
+
+---
+
+### 🔥 近期项目 / Recent Projects
+
+<!-- 这里你可以添加具体的项目卡片 -->
+<!-- 示例：-->
 <!-- 
-**HeHaojie-Agent/HeHaojie-Agent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🚀 I’m currently working on ...
-- 📚 I’m currently learning ...
-- 🤝 I’m looking to collaborate on ...
-- 💡 I’m looking for help with ...
-- 🎯 Ask me about ...
-- 📧 How to reach me: ...
-- 🏳️‍🌈 Pronouns: ...
-- 🎉 Fun fact: ...
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeHaojie-Agent&repo=your-repo-name&theme=radical&bg_color=141321)](https://github.com/HeHaojie-Agent/your-repo-name)
 -->
 
-### 🧠 专注领域：Agent 应用开发 & 智能体 & 大模型
-
-- 正在构建 **可自主决策的 AI Agent 系统**，探索多智能体协作（Multi-Agent Collaboration）
-- 深入研究 **大模型微调与推理优化**（LoRA / QLoRA / vLLM）
-- 实践 **RAG（检索增强生成）+ Agent 工作流**，打造企业级智能助手
-- 探索 **AutoGPT / LangGraph / LlamaIndex** 等框架的落地应用
-
-### 🛠️ 技术栈
-
-- **语言**：Python / TypeScript / SQL
-- **框架**：LangChain / AutoGen / CrewAI / LlamaIndex / FastAPI
-- **模型**：Qwen / Llama3 / Mistral / GPT-4 / Claude
-- **部署**：Docker / Kubernetes / GitHub Actions / HuggingFace Spaces
-
-### 📈 项目亮点
-
-- ✅ 实现 **基于 ReAct 的 Agent 任务拆解与工具调用**
-- ✅ 搭建 **多轮对话记忆 + 知识库检索增强的问答系统**
-- ✅ 使用 **LangGraph 构建复杂工作流 Agent 流程**
-- ✅ 部署 **本地化大模型 + Agent 服务（支持 GPU/CPU）**
-
-### 📬 联系我
-
-- 📧 邮箱：2653528729@qq.com
-- 🐱 GitHub：https://github.com/HeHaojie-Agent
-- 🎓 学校：天津科技大学（Agent 学习人员一枚 👨‍💻）
-- 📍 城市：天津
+- **🤖 Multi-Agent 协作系统**: 基于 AutoGen 的多智能体协作框架
+- **📚 智能知识库问答**: 结合 RAG 与大模型的知识检索系统
+- **🔄 自动化工作流**: 使用 LangGraph 构建的复杂 Agent 流程
 
 ---
 
-> 💡 **Fun Fact**: 我用 Agent 给自己写了这段自我介绍 😄  
-> 欢迎交流！一起探索智能体的无限可能 🚀
+### 🔗 快速连接 / Connect With Me
+
+<p align="left">
+  <a href="mailto:2653528729@qq.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-2653528729@qq.com-FF6B8B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/HeHaojie-Agent" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-HeHaojie--Agent-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <!-- 可以添加其他平台 -->
+</p>
 
 ---
 
-<!-- 贡献统计图会自动显示在下方，无需手动添加 -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HeHaojie-Agent&label=Profile%20Views&color=FF6B8B&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center"> 
+  <i>⚡ 探索 AI Agent 的无限可能，构建智能的未来 ⚡</i>
+</p>
