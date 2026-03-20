@@ -12,7 +12,7 @@
 
 <img align="right" width="220" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHlqbmY3cHR5M3BxYzZ4ZWp4dGNiZWs3bXg0aGJ5N2d3Z3hqa2NtOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J1dKdFQb2f9HtJ6J5K/giphy.gif" alt="ai-agent-gif" />
 
-- 🎓 **当前坐标**: 就读于 **天津科技大学 (TUST)**。
+- 🎓 **当前坐标**: 就读于 **TUST**。
 - 🤖 **核心领域**: 深度探索 **AI Agent 应用开发** & **智能体架构**。
 - 🧬 **技术栈**: **LangChain** / **AutoGen** / **CrewAI** 实践者。
 - 🧪 **模型研究**: **Qwen** / **Llama3** / **GPT** 系列模型应用与微调。
